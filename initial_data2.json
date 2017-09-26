@@ -1,0 +1,93 @@
+[
+    {
+        "pk": 1,
+        "model": "qa.apptype",
+        "fields": {
+            "app_name": "Importer Comment"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "qa.apptype",
+        "fields": {
+            "app_name": "Importer Bug"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "qa.apptype",
+        "fields": {
+            "app_name": "Insight Comment"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "qa.apptype",
+        "fields": {
+            "app_name": "Insight Bug"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "qa.apptype",
+        "fields": {
+            "app_name": "Test Engine Bug"
+        }
+    },
+    {
+        "pk": 6,
+        "model": "qa.apptype",
+        "fields": {
+            "app_name": "Web Bug"
+        }
+    },
+    {
+        "pk": 7,
+        "model": "qa.apptype",
+        "fields": {
+            "app_name": "QA Bug"
+        }
+    },
+    {
+        "pk": 1,
+        "model": "qa.feedbackstatus",
+        "fields": {
+            "status": "new"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "qa.feedbackstatus",
+        "fields": {
+            "status": "reopen"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "qa.feedbackstatus",
+        "fields": {
+            "status": "tested"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "qa.feedbackstatus",
+        "fields": {
+            "status": "closed"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "qa.feedbackstatus",
+        "fields": {
+            "status": "suspended"
+        }
+    },
+    {
+        "pk": 6,
+        "model": "qa.feedbackstatus",
+        "fields": {
+            "status": "need info"
+        }
+    }
+]
